@@ -1,0 +1,17 @@
+body
+{
+background-image: cover;
+}
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    background-color: lightskyblue;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
